@@ -20,6 +20,15 @@
 <a href="https://flask.palletsprojects.com/en/1.1.x/">
   <img align="left" alt="Flask" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/flask.svg" />
 </a>
+<a href="https://www.heroku.com/">
+  <img align="left" alt="Heroku" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/heroku.svg" />
+</a>
+<a href="https://www.digitalocean.com/">
+  <img align="left" alt="Digital Ocean" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/digitalocean.svg" />
+</a>
+<a href="https://www.raspberrypi.org/">
+  <img align="left" alt="Raspberry Pi" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/raspberrypi.svg" />
+</a>
 
 <br><br>
 
@@ -30,4 +39,5 @@
 
 ### Stats
 [![Rohans's github stats](https://github-readme-stats.vercel.app/api?username=UnityRohan&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=UnityRohan)](https://github.com/anuraghazra/github-readme-stats)
 
