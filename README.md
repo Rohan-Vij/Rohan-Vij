@@ -43,7 +43,7 @@
 ```python
 #!/usr/bin/python3
 
-class JackOfAllTrades:
+class programmer:
     def __init__(self):
         self.name = "Rohan"
         self.age = "13"
@@ -57,7 +57,7 @@ class JackOfAllTrades:
 Some languages I know are: {self.langs}. I have {self.num_of_certificates}: {self.certificates}"""
           
 
-rohan = JackOfAllTrades()
+rohan = programmer()
 print(rohan)
 
 ```
