@@ -5,6 +5,9 @@
 <a href="https://www.gnu.org/software/bash/">
   <img align="left" alt="Bash" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/gnubash.svg" />
 </a>
+<a href="https://www.javascript.com/">
+  <img align="left" alt="Javascript" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/javascript.svg" />
+</a>
 <a href="https://www.jetbrains.com/pycharm/">
   <img align="left" alt="Pycharm" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/pycharm.svg" />
 </a>
@@ -50,7 +53,8 @@ class JackOfAllTrades:
         self.num_of_certificates = len(self.certificates)
 
     def __str__(self):
-        return f"Hello there! I am {self.name}. I'm {self.age}, and I live in {self.location}. Some languages I know are: {self.langs}. I have {self.num_of_certificates} certification: {self.certificates}"
+        return f"""Hello there! I am {self.name}. I'm {self.age}, and I live in {self.location}. 
+Some languages I know are: {self.langs}. I have {self.num_of_certificates}: {self.certificates}"""
           
 
 rohan = JackOfAllTrades()
