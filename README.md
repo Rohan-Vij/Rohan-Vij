@@ -37,6 +37,26 @@
 
 <br>
 
+```python
+#!/usr/bin/python3
+
+class JackOfAllTrades:
+    def __init__(self):
+        self.name = "Rohan"
+        self.age = "13"
+        self.location = "Dublin, California"
+        self.langs = ["Python", "Javascript", "Bash"]
+        self.certificates = ["Python Associate (PCAP)"]
+        self.num_of_certificates = len(self.certificates)
+
+    def __str__(self):
+        return f"Hello there! I am {self.name}. I'm {self.age}, and I live in {self.location}. Some languages I know are: {self.langs}. I have {self.num_of_certificates} certification: {self.certificates}"
+          
+
+rohan = JackOfAllTrades()
+print(rohan)
+
+```
 
 ### Stats
 
