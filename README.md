@@ -22,8 +22,9 @@
 </a>
 
 <br>
+
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=unityrohan.unityrohan)
-[![GitHub Rohan](https://img.shields.io/github/followers/UnityRohan?label=follow&style=social)](https://github.com/UnityRohan)
+![GitHub Rohan](https://img.shields.io/github/followers/UnityRohan?label=follow&style=social)](https://github.com/UnityRohan)
 
 <br>
 
