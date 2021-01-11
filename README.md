@@ -37,7 +37,9 @@
 
 <br>
 
+
+
+<br>
 ### Stats
-[![Rohans's github stats](https://github-readme-stats.vercel.app/api?username=UnityRohan&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=UnityRohan)](https://github.com/anuraghazra/github-readme-stats)
+[![Rohans's github stats](https://github-readme-stats.vercel.app/api?username=UnityRohan&show_icons=true&bg_color=)](https://github.com/anuraghazra/github-readme-stats)
 
