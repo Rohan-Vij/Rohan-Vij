@@ -46,7 +46,7 @@
 class Programmer:
     def __init__(self):
         self.name = "Rohan"
-        self.age = "13"
+        self.age = 13
         self.location = "Dublin, California"
         self.langs = ["Python", "Javascript", "Bash"]
         self.certificates = ["Python Associate (PCAP)"]
