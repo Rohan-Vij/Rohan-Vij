@@ -21,6 +21,7 @@
   <img align="left" alt="Flask" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/flask.svg" />
 </a>
 
+<br>
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=unityrohan.unityrohan)
 [![GitHub Rohan](https://img.shields.io/github/followers/UnityRohan?label=follow&style=social)](https://github.com/UnityRohan)
 
