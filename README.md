@@ -32,6 +32,14 @@
 <a href="https://www.raspberrypi.org/">
   <img align="left" alt="Raspberry Pi" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/raspberrypi.svg" />
 </a>
+<a href="https://www.nginx.com/">
+  <img align="left" alt="NGINX" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/nginx.svg" />
+</a>
+<a href="https://www.apache.org/">
+  <img align="left" alt="Apache2" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/apache.svg" />
+</a>
+
+
 
 <br><br>
 
