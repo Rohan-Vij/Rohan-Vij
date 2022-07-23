@@ -1,8 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rohan!</h1>
 <h3 align="center">A passionate fullstack developer from California</h3>
-<p align="center">
-![visitors](https://visitor-badge.glitch.me/badge?page_id=rohan-vij.visitor-badge)
-[![GitHub Rohan](https://img.shields.io/github/followers/Rohan-Vij?label=follow&style=social)](https://github.com/Rohan-Vij)</p>
 
 <h3 align="left">🔗 Connect with me:</h3>
 <p align="left">
