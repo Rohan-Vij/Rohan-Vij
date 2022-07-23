@@ -1,76 +1,52 @@
-## Hi, I'm Rohan! 😀
-<a href="https://www.python.org/">
-  <img align="left" alt="Python" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/python.svg" />
-</a>
-<a href="https://www.gnu.org/software/bash/">
-  <img align="left" alt="Bash" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/gnubash.svg" />
-</a>
-<a href="https://www.javascript.com/">
-  <img align="left" alt="Javascript" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/javascript.svg" />
-</a>
-<a href="https://www.jetbrains.com/pycharm/">
-  <img align="left" alt="Pycharm" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/pycharm.svg" />
-</a>
-<a href="https://code.visualstudio.com/">
-  <img align="left" alt="VSCode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/visualstudiocode.svg" />
-</a>
-<a href="https://www.microsoft.com/en-us/windows">
-  <img align="left" alt="Windows 10" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/windows.svg" />
-</a>
-<a href="https://ubuntu.com/">
-  <img align="left" alt="Ubuntu" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/ubuntu.svg" />
-</a>
-<a href="https://flask.palletsprojects.com/en/1.1.x/">
-  <img align="left" alt="Flask" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/flask.svg" />
-</a>
-<a href="https://www.heroku.com/">
-  <img align="left" alt="Heroku" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/heroku.svg" />
-</a>
-<a href="https://www.digitalocean.com/">
-  <img align="left" alt="Digital Ocean" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/digitalocean.svg" />
-</a>
-<a href="https://www.raspberrypi.org/">
-  <img align="left" alt="Raspberry Pi" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/raspberrypi.svg" />
-</a>
-<a href="https://www.nginx.com/">
-  <img align="left" alt="NGINX" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/nginx.svg" />
-</a>
-<a href="https://www.apache.org/">
-  <img align="left" alt="Apache2" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/apache.svg" />
-</a>
-
-
-
-<br><br>
-
+<h1 align="center">Hi 👋, I'm Rohan!</h1>
+<h3 align="center">A passionate fullstack developer from California</h3>
+<p align="center">
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=rohan-vij.visitor-badge)
-[![GitHub Rohan](https://img.shields.io/github/followers/Rohan-Vij?label=follow&style=social)](https://github.com/Rohan-Vij)
+[![GitHub Rohan](https://img.shields.io/github/followers/Rohan-Vij?label=follow&style=social)](https://github.com/Rohan-Vij)</p>
+
+<h3 align="left">🔗 Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/rohankvij" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rohankvij" height="30" width="40" /></a>
+<a href="https://medium.com/@rohankvij" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@rohankvij" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">🔧 Languages and Tools:</h3>
+
+<p align="left"> 
+
+<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
+<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
+<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
+<a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
+<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
+
+
+<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+<a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a>
+<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a>
+<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
+<a href="https://bulma.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/gilbarbara/logos/804dc257b59e144eaca5bc6ffd16949752c6f789/logos/bulma.svg" alt="bulma" width="40" height="40"/> </a>
+<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
+<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
+
+<a href="https://mochajs.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" alt="mocha" width="40" height="40"/> </a>
+<a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
+<a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
+<a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a>
+<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
+
+<a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a>      <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a>      <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a>  
+<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a>    <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a>   <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a>  </p>
+
 
 <br>
 
-```python
-#!/usr/bin/python3
 
-class Programmer:
-    def __init__(self):
-        self.name = "Rohan"
-        self.age = 13
-        self.location = "Dublin, California"
-        self.langs = ["Python", "Javascript", "Bash"]
-        self.certificates = ["Python Associate (PCAP)", "IT Specialist - Python"]
-        self.num_of_certificates = len(self.certificates)
-
-    def __str__(self):
-        return f"""Hello there! I am {self.name}. I'm {self.age}, and I live in {self.location}. 
-Some languages I know are: {self.langs}. I have {self.num_of_certificates}: {self.certificates}"""
-          
-
-rohan = Programmer()
-print(rohan)
-
-```
-
-### Stats
-
-[![Rohans's github stats](https://github-readme-stats.vercel.app/api?username=Rohan-Vij&show_icons=true&bg_color=)](https://github.com/anuraghazra/github-readme-stats)
+### 📖 My Medium Articles
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
