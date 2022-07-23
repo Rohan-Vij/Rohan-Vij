@@ -43,8 +43,8 @@
 
 <br><br>
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=unityrohan.visitor-badge)
-[![GitHub Rohan](https://img.shields.io/github/followers/UnityRohan?label=follow&style=social)](https://github.com/UnityRohan)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=rohan-vij.visitor-badge)
+[![GitHub Rohan](https://img.shields.io/github/followers/Rohan-Vij?label=follow&style=social)](https://github.com/Rohan-Vij)
 
 <br>
 
@@ -57,7 +57,7 @@ class Programmer:
         self.age = 13
         self.location = "Dublin, California"
         self.langs = ["Python", "Javascript", "Bash"]
-        self.certificates = ["Python Associate (PCAP)"]
+        self.certificates = ["Python Associate (PCAP)", "IT Specialist - Python"]
         self.num_of_certificates = len(self.certificates)
 
     def __str__(self):
@@ -72,5 +72,5 @@ print(rohan)
 
 ### Stats
 
-[![Rohans's github stats](https://github-readme-stats.vercel.app/api?username=UnityRohan&show_icons=true&bg_color=)](https://github.com/anuraghazra/github-readme-stats)
+[![Rohans's github stats](https://github-readme-stats.vercel.app/api?username=Rohan-Vij&show_icons=true&bg_color=)](https://github.com/anuraghazra/github-readme-stats)
 
