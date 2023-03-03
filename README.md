@@ -45,6 +45,7 @@
 
 ### 📖 My Medium Articles
 <!-- BLOG-POST-LIST:START -->
+- [Combating Overfitting with Dropout Regularization](https://towardsdatascience.com/combating-overfitting-with-dropout-regularization-f721e8712fbe?source=rss-e44b36765084------2)
 - [Machine Learning Algorithms Part 1: Linear Regression](https://towardsdatascience.com/machine-learning-algorithms-part-1-linear-regression-a7079238edc9?source=rss-e44b36765084------2)
 - [Understanding Statistical Data Types](https://towardsdatascience.com/understanding-statistical-data-types-2993dafcac86?source=rss-e44b36765084------2)
 - [Write Your First Machine Learning Program in Under 50 Lines Using Scikit-Learn](https://towardsdatascience.com/write-your-first-machine-learning-program-in-under-50-lines-using-scikit-learn-926fbe5b6ad0?source=rss-e44b36765084------2)
