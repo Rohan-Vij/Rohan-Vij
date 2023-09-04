@@ -45,10 +45,10 @@
 
 ### 📖 My Medium Articles
 <!-- BLOG-POST-LIST:START -->
+- [From Chandrayaan-2’s Failure to Chandrayaan-3’s Triumph: The Software Testing Connection](https://towardsdatascience.com/from-chandrayaan-2s-failure-to-chandrayaan-3-s-triumph-the-software-testing-connection-854bf94ea72b?source=rss-e44b36765084------2)
 - [Combating Overfitting with Dropout Regularization](https://towardsdatascience.com/combating-overfitting-with-dropout-regularization-f721e8712fbe?source=rss-e44b36765084------2)
 - [Machine Learning Algorithms Part 1: Linear Regression](https://towardsdatascience.com/machine-learning-algorithms-part-1-linear-regression-a7079238edc9?source=rss-e44b36765084------2)
 - [Understanding Statistical Data Types](https://towardsdatascience.com/understanding-statistical-data-types-2993dafcac86?source=rss-e44b36765084------2)
 - [Write Your First Machine Learning Program in Under 50 Lines Using Scikit-Learn](https://towardsdatascience.com/write-your-first-machine-learning-program-in-under-50-lines-using-scikit-learn-926fbe5b6ad0?source=rss-e44b36765084------2)
-- [The Oberth Effect: How Does It Work? &lpar;Astronautics For Dummies: Part 1&rpar;](https://medium.com/@rohankvij/the-oberth-effect-how-does-it-work-astronautics-for-dummies-part-1-15ee1b20eb40?source=rss-e44b36765084------2)
 <!-- BLOG-POST-LIST:END -->
 
