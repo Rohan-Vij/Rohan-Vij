@@ -45,10 +45,10 @@
 
 ### 📖 My Medium Articles
 <!-- BLOG-POST-LIST:START -->
+- [Partial Privatization: The Goldilocks Solution to Balancing the Nationalization and Privatization…](https://medium.com/illumination/partial-privatization-the-goldilocks-solution-to-balancing-the-nationalization-and-privatization-d20c2010fc60?source=rss-e44b36765084------2)
 - [Building Trustworthy AI: Interpretability in Vision and Linguistic Models](https://pub.towardsai.net/building-trustworthy-ai-interpretability-in-vision-and-linguistic-models-b78d1ea979d4?source=rss-e44b36765084------2)
 - [Creating a Context-Aware Sentiment Analyzer: A Simple Guide to Finetuning in 2024](https://medium.com/@rohankvij/creating-a-context-aware-sentiment-analyzer-a-simple-guide-to-finetuning-in-2024-4bb413fc5ebf?source=rss-e44b36765084------2)
 - [Combating Overfitting with Dropout Regularization](https://towardsdatascience.com/combating-overfitting-with-dropout-regularization-f721e8712fbe?source=rss-e44b36765084------2)
 - [Machine Learning Algorithms Part 1: Linear Regression](https://towardsdatascience.com/machine-learning-algorithms-part-1-linear-regression-a7079238edc9?source=rss-e44b36765084------2)
-- [Understanding Statistical Data Types](https://towardsdatascience.com/understanding-statistical-data-types-2993dafcac86?source=rss-e44b36765084------2)
 <!-- BLOG-POST-LIST:END -->
 
